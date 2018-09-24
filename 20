@@ -1,0 +1,1 @@
+warm init --advertise-addr $(docker-machine ip Char)
